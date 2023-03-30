@@ -1,3 +1,5 @@
+项目比较老，编译困难
+
 ##微信公众号:
 
 ![学习流程图](https://github.com/minggo620/iOSRuntimeLearn/blob/master/picture/gongzhonghao.jpg?raw=true)  
